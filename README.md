@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and going outside for fresh air
 - 🌱 I’m currently learning more about the computing languages Java and C++
 - 💞️ I’m looking to collaborate on any future big projects
-- 📫 How to reach me: My instagram is @dimitrovv04
+- 📫 How to reach me: My email is nikodimitrovbusiness04@gmail.com
 
 <!---
 dimitrovv0405/dimitrovv0405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
