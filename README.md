@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimitrovv0405
 - 👀 I’m interested in coding and going outside for fresh air
-- 🌱 I’m currently learning more about the computing languages Java and C++
+- 🌱 I’m currently learning more about the computing languages Java, HTML & CSS, and JS.
 - 💞️ I’m looking to collaborate on any future big projects
 - 📫 How to reach me: My email is nikodimitrovbusiness04@gmail.com
 
